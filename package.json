@@ -1,0 +1,19 @@
+{
+  "name": "simscale",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run",
+    "cypressOpen": "npx cypress open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.1.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  }
+}
